@@ -3,4 +3,4 @@
 
  repositório criado durante um aula ao vivo!
  
- Essa linha eu adicionei directamente no site! QUE IMPRESSIONANTE!
+I´m **taking the first steps** on *github*.
